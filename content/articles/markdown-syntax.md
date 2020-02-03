@@ -1,6 +1,7 @@
 ---
 title: "Markdown Syntax"
 date: 1970-01-01T12:00:00-06:00
+draft: false
 description: This article provides a sample of basic Markdown syntax that can be used in Hugo content files with this theme.
 ---
 
